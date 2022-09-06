@@ -47,4 +47,9 @@ public class Student {
         schoolName + ".";
     }
 
+
+    public char[] creditsRemaining() {
+        return null;
+    }
+
 }
